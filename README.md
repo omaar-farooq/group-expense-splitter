@@ -8,9 +8,9 @@ Built at the start of college to solve a real problem: splitting Costco runs whe
 
 ## Preview
 
-![Sheet Overview](screenshots/overview.png)
+![Sheet Overview](Overview.png)
 
-![Who Paid Dropdown](screenshots/dropdown.png)
+![Who Paid Dropdown](Dropdown.png)
 
 ---
 
